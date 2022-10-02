@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075353187050",
+    "project_id": "bloodcharity-73ed6",
+    "storage_bucket": "bloodcharity-73ed6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075353187050:android:d7a2add28efd8fabe71d93",
+        "android_client_info": {
+          "package_name": "com.example.bloodpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075353187050-98ci9c19tk4ivjjjvu295d5j8k8cco02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB8_Zey2zItSY6Xgp8Vf2OjLpjJX09yW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075353187050-98ci9c19tk4ivjjjvu295d5j8k8cco02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
